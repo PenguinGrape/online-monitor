@@ -1,5 +1,7 @@
 {
   "token": "Your api token",
   "user_id": "User ID who you want to check",
-  "send_to_id": "Yoyr ID, where to send info"
+  "send_to_id": "Your ID, where to send info",
+  "api_id": "API ID for Telegram API (NOT BOT API)",
+  "api_hash": "API HASH for Telegram API (NOT BOT API)"
 }
